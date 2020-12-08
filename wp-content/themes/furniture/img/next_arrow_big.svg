@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#fff}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_252" d="M0 0h88v88H0z" class="cls-1" data-name="Rectangle 252" transform="rotate(180 44 44)"/>
+        </clipPath>
+    </defs>
+    <g id="next_arrow_big" transform="translate(44 44)">
+        <g id="next_arrow_big-2" data-name="next_arrow_big" transform="translate(-44 -44)">
+            <g id="Group_189" class="cls-2" data-name="Group 189">
+                <g id="Group_188" data-name="Group 188">
+                    <path id="Path_610" d="M34 24l.5.2 19.9 19.4a.636.636 0 0 1-.9.9L33.6 25.1a.6.6 0 0 1 0-.9z" class="cls-3" data-name="Path 610"/>
+                    <path id="Path_611" d="M54 43.4a.6.6 0 1 1 .5 1.1l-20 19.4a.636.636 0 0 1-.9-.9l19.9-19.4z" class="cls-3" data-name="Path 611"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

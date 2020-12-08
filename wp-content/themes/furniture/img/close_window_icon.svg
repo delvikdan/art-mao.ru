@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#fff;fill-rule:evenodd}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_798" d="M0 0h44v44H0z" class="cls-1" data-name="Rectangle 798"/>
+        </clipPath>
+    </defs>
+    <g id="close_window_icon" transform="translate(22 22)">
+        <g id="Group_912" class="cls-2" data-name="Group 912" transform="translate(-22 -22)">
+            <path id="Path_1971" d="M14 29l7-7-7-7 1-1 7 7 7-7 1 1-7 7 7 7-1 1-7-7-7 7z" class="cls-3" data-name="Path 1971"/>
+        </g>
+    </g>
+</svg>

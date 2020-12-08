@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#fff;fill-rule:evenodd}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_799" d="M0 0h88v88H0z" class="cls-1" data-name="Rectangle 799"/>
+        </clipPath>
+    </defs>
+    <g id="scroll_icon" transform="translate(44 44)">
+        <g id="Group_913" class="cls-2" data-name="Group 913" transform="translate(-44 -44)">
+            <path id="Path_1972" d="M44 37.2a.7.7 0 0 1 .7.7v4.3a.7.7 0 1 1-1.4 0v-4.3a.7.7 0 0 1 .7-.7zm.7 28.4l2.4-2.4.5-.2.5.2a.7.7 0 0 1 0 1l-3.6 3.6-.5.2-.5-.2-3.6-3.6a.7.7 0 0 1 0-1l.5-.2.5.2 2.4 2.4v-9.8a.7.7 0 0 1 1.4 0zM41.4 59a.743.743 0 1 1-.5 1.4 9.3 9.3 0 0 1-6.2-8.8V37.9a9.3 9.3 0 0 1 18.6 0v13.6a9.3 9.3 0 0 1-6.2 8.8.743.743 0 0 1-.5-1.4 7.9 7.9 0 0 0 5.3-7.4V37.9a7.905 7.905 0 1 0-15.8.4v13.2a8 8 0 0 0 5.3 7.5zm1.2-37.5a1.539 1.539 0 1 0 0-.1zm0 4.3a1.539 1.539 0 1 0 0-.1z" class="cls-3" data-name="Path 1972"/>
+        </g>
+    </g>
+</svg>

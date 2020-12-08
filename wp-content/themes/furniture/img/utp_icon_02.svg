@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{fill:none}
+        </style>
+    </defs>
+    <g id="utp_icon_02" transform="translate(44 44)">
+        <g id="Group_959" data-name="Group 959" transform="translate(-44 -44)">
+            <g id="Group_958" data-name="Group 958">
+                <path id="Path_2055" d="M35 56h-1a1 1 0 0 0-1 1v3a1 1 0 0 0 0 2h1a1 1 0 0 0 1-1v-3a1 1 0 0 0 0-2z" class="cls-1" data-name="Path 2055"/>
+                <path id="Path_2056" d="M45 60v-3a1 1 0 0 0-1-1h-1a1 1 0 0 0 0 2v3a1 1 0 0 0 1 1h1a1 1 0 0 0 0-2z" class="cls-1" data-name="Path 2056"/>
+                <path id="Path_2057" d="M48.8 54.7a3 3 0 1 1-.1-6 1 1 0 0 0 1-1v-2a10.2 10.2 0 0 0-8.1-9.5L41 24a1 1 0 0 0 1-1v-1h1a1 1 0 0 0 0-2h-1.2l-.2-2H43a1 1 0 0 0 0-2h-1.6v-1.1a1 1 0 0 0-1-.9h-2.7a1 1 0 0 0-1 .9V16H35a1 1 0 0 0 0 2h1.4l-.2 2H35a1 1 0 0 0 0 2h1.1v.9A1 1 0 0 0 37 24l-.4 12.2a10.2 10.2 0 0 0-8.1 9.5v1.9a1 1 0 0 0 1 1 3 3 0 1 1 0 6h-.2a1 1 0 0 0-1 1v4.1a9.8 9.8 0 0 0 2.8 7.2 10.7 10.7 0 0 0 6.3 3.1l.6 3.2a1 1 0 0 0 1 .8 1 1 0 0 0 1-.8l.6-3.2a10.7 10.7 0 0 0 6.6-3.2 9.8 9.8 0 0 0 2.8-7.1v-4.1a1.1 1.1 0 0 0-1.2-.9zm-9.3-17.6l.5 12.7h-2l.5-12.7L39 24zM38.6 16h.8l.5 6h-1.8zm.4 51.4l-.8-4.4h1.6zm6.8-2a8.7 8.7 0 0 1-4.8 2.5l1-5.8a1 1 0 0 0-1-1.1h-4a1 1 0 0 0-1 1.2l1 5.8a8.7 8.7 0 0 1-4.8-2.5 7.8 7.8 0 0 1-2.2-5.7v-3.2a5 5 0 0 0 .3-9.8v-1a8.1 8.1 0 0 1 6-7.5L36 50.7v.3a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-.2l-.4-12.4a8.1 8.1 0 0 1 6 7.5v1a5 5 0 0 0 .3 9.8v3.2a7.8 7.8 0 0 1-2.2 5.6z" class="cls-1" data-name="Path 2057"/>
+                <path id="Path_2058" d="M59 20h-3v-1a1 1 0 0 0-2 0v41a1 1 0 0 0 1 1h3v8h2V32h-2v27h-2V22h2v4h2v-5a1 1 0 0 0-1-1z" class="cls-1" data-name="Path 2058"/>
+                <path id="Rectangle_833" d="M0 0h2v2H0z" class="cls-1" data-name="Rectangle 833" transform="translate(58 28)"/>
+            </g>
+            <path id="Rectangle_834" d="M0 0h88v88H0z" class="cls-2" data-name="Rectangle 834"/>
+        </g>
+    </g>
+</svg>
